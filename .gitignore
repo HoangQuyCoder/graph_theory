@@ -1,0 +1,30 @@
+# Build files
+*.exe
+*.out
+*.o
+*.obj
+*.bin
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output files
+io/output_*.txt
+
+# Temporary files
+*.tmp
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Project specific
+main/app.exe
+main/test.exe
